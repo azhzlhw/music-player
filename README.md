@@ -22,7 +22,7 @@ screen npm start
 ### Docker一键部署
 
 ```
-ghcr.io/eooce/music-player:latest
+ghcr.io/azhzlhw/music-player:latest
 ```
 
 ## api
